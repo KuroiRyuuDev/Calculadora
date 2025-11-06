@@ -24,4 +24,7 @@ public class Challenge3_10 {
             }
         } while (respuesta != correct);
     }
+
 }
+
+// Comentario añadido el 6/11/2025
